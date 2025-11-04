@@ -7,7 +7,7 @@
 
 ## 🧠 About Me  
 - 💼 Leading Fraud Operations at **Nala**, building structured SOPs, fraud detection rules, and internal dashboards.  
-- 🌱 Expanding my skills in **React, TypeScript, and Framer Motion** to craft visually engaging user experiences.  
+- 🌱 Expanding my skills in **React, TypeScript, JavaScript, and Framer Motion** to craft visually engaging user experiences.  
 - 💡 Combining analytical expertise with creative coding to build efficient, user-focused solutions.  
 - 🧰 **Tech Stack**  
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -82,4 +82,4 @@ Real-time weather updates with a sleek, responsive interface using **OpenWeather
 
 ---
 
-> ✨ *“Technology isn’t just about code — it’s about creating impact, improving systems, and empowering people.”*
+> ✨ *“Technology isn’t just about code, it’s about creating impact, improving systems, and empowering people.”*
