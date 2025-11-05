@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I’m Kelvin Olasupo  
 
-🎯 **Fraud Operations Lead @ [Nala](https://www.nala.com/)** | **Aspiring Frontend Developer**  
+🎯 **Fraud Operations Lead @ [Nala](https://www.nala.com/)** | **Aspiring Software Engineer**  (Frontend, Backend or Full Stack)
 🎓 First-Class Computer Science Graduate | Passionate about building clean, responsive, and interactive web apps.
 
 ---
