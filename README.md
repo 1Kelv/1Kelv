@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me  
-- 💼 Leading Fraud Operations at **Nala**, building structured SOPs, fraud detection rules, and internal dashboards.  
+- 💼 Leading Fraud Operations at **Nala**, building structured SOPs, feedback fraud detection rules, and internal dashboards.  
 - 🌱 Expanding my skills in **React, TypeScript, JavaScript, and Framer Motion** to craft visually engaging user experiences.  
 - 💡 Combining analytical expertise with creative coding to build efficient, user-focused solutions.  
 - 🧰 **Tech Stack**  
