@@ -27,6 +27,14 @@
 
 ## 🚀 Featured Projects  
 
+### 🌱 [Thrive Finance](https://github.com/1Kelv/thrive-finance)
+Personal finance management with enterprise-grade security features.
+🧩 *Stack:* TypeScript, React, Supabase
+🔗 [GitHub Repo](https://github.com/1Kelv/thrive-finance)
+Live App: https://getmythrive.io
+
+---
+
 ### ⚙️ [AgileFlow](https://github.com/1Kelv/AgileFlow)  
 AI-powered Agile project management tool featuring sprint completion predictions with **TensorFlow**.  
 🧩 *Stack:* React, TypeScript, Supabase, Recharts, Tailwind.  
