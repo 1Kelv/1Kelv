@@ -32,10 +32,6 @@ I work where fraud, financial risk and software meet. I lead fraud operations at
 Repository security agent that scans a codebase with Semgrep, OSV-Scanner and Gitleaks, explains findings in plain English and prepares narrow, validated fixes for human review. It never merges or deploys, and an incomplete scan is never reported as clean.
 *Python, Next.js, GitHub Actions, PostgreSQL* · [Live dashboard](https://forgewatch-sepia.vercel.app)
 
-### [Sentinel](https://sentinel-taupe-theta.vercel.app)
-Real-time vulnerability detection for collections and debt support teams. It surfaces financial vulnerability signals during a live call, guides the agent with confidence-based prompts and drafts the CRM note, aligned with FCA Consumer Duty.
-*React, TypeScript, Vite* · [Live demo](https://sentinel-taupe-theta.vercel.app)
-
 ### [Mylestone](https://mylestone-seven.vercel.app)
 Installable progressive web app for parents of medically complex infants. It combines care tracking, a hospital admission mode, shareable PDF reports and Mylo, an AI health companion built on the Anthropic API.
 *React, TypeScript, Appwrite, Tailwind CSS, Framer Motion* · [Live app](https://mylestone-seven.vercel.app)
@@ -72,3 +68,7 @@ Open to frontend, backend and full stack engineering roles, particularly in fint
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvinolasupo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kelvino-dev.netlify.app)
+
+---
+
+> Fraud teaches you how systems fail. Engineering teaches you how to build ones that do not.
