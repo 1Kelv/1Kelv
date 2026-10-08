@@ -2,7 +2,7 @@
 
 **Fraud Operations Lead at [Nala](https://www.nala.com/)** · **Software Engineer** · First-Class Computer Science Graduate
 
-I work where fraud, financial risk and software meet. By day I lead fraud operations at Nala, where I also design and build internal tools, from detection rules and structured SOPs to dashboards. Outside work I build full-stack products that apply the same thinking: spot risk early, explain decisions clearly and keep a human in the loop.
+I work where fraud, financial risk and software meet. I lead fraud operations at Nala, and much of my work there is building the internal tools my team relies on: automation, reporting and dashboards that turn manual processes into reliable, auditable workflows. Outside work I build full-stack products that apply the same thinking: spot risk early, explain decisions clearly and keep a human in the loop.
 
 ---
 
